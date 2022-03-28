@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1647999328 "main.tex" "main.pdf" "main" 1647999457
+  "/etc/texmf/web2c/texmf.cnf" 1647983863 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1601675358 20145 aad8c3dd3bc36e260347b84002182bc2 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo" 1601675358 8465 2dd6985139dc15bc64ec71e501e76e40 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1613593815 38841 799d1dd9682a55ce442e10c99777ecc1 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1613593815 38841 799d1dd9682a55ce442e10c99777ecc1 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1647983895 1283504 115b43dbb0f38fabe37426a860812570 ""
+  "main.aux" 1647986125 8 a94a2480d3289e625eea47cd1b285758 ""
+  "main.tex" 1647998596 27860 7c4007871b2b8efcd61b37ced139774a ""
+  "numprint.sty" 0 -1 0 ""
+  (generated)
+  "main.log"
+  "main.pdf"
