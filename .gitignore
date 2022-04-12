@@ -1,6 +1,6 @@
 *.aux
-*.glo
-*.idx
+*.dvi
+*.bbl
 *.log
 *.ist
 *.acn
