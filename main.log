@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.4.1)  5 APR 2022 11:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.4.1)  12 APR 2022 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -728,7 +728,7 @@ Here is how much of TeX's memory you used:
  27092 multiletter control sequences out of 15000+600000
  431509 words of font info for 98 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 81i,15n,89p,1027b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,15n,89p,1008b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/guyvard/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbi1440.6
 00pk> </home/guyvard/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/tctt109
 5.600pk> </home/guyvard/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt
@@ -762,7 +762,7 @@ s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type
 c/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/sym
 bols/msbm10.pfb>
-Output written on main.pdf (12 pages, 382481 bytes).
+Output written on main.pdf (12 pages, 382496 bytes).
 PDF statistics:
  654 PDF objects out of 1000 (max. 8388607)
  245 compressed objects within 3 object streams
